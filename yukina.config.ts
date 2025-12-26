@@ -2,13 +2,13 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Yukina",
+  title: "Wacky",
   subTitle: "Yukina Template Demo Site",
   brandTitle: "Yukina",
 
   description: "Demo Site",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://wacky.github.io",
 
   locale: "en", // set for website language and date format
 
